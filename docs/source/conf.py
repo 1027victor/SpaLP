@@ -121,12 +121,12 @@ html_css_files = ["css/custom.css"]
 html_title = "SpaLP"
 html_logo = "_static/SpaLP.svg"
 
-html_theme_options = {
-    # "repository_url": repository_url,
-    "use_repository_button": True,
-    "path_to_docs": "docs/",
-    "navigation_with_keys": False,
-}
+# html_theme_options = {
+#     # "repository_url": repository_url,
+#     "use_repository_button": True,
+#     "path_to_docs": "docs/",
+#     "navigation_with_keys": False,
+# }
 
 pygments_style = "default"
 
