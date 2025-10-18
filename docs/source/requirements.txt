@@ -5,6 +5,12 @@ Sphinx==8.1.3
 sphinx-rtd-theme==3.0.2
 myst_nb
 sphinx_copybutton
+sphinxcontrib.bibtex
+sphinx_autodoc_typehints
+sphinx.ext.mathjax
+sphinx_design
+IPython.sphinxext.ipython_console_highlighting
+hoverxref.extension
 #sphinxcontrib-applehelp==2.0.0
 #sphinxcontrib-devhelp==2.0.0
 #sphinxcontrib-htmlhelp==2.1.0
