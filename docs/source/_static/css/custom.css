@@ -27,9 +27,9 @@ div.cell_output table.dataframe {
 
 
 /* 强制设置所有卡片为正方形 */
-.grid-item-card {
-    width: 150px !important;    /* 设置卡片宽度为150px */
-    height: 150px !important;   /* 设置卡片高度为150px */
+div.grid-item-card {
+    width: 250px !important;    /* 设置卡片宽度为250px */
+    height: 250px !important;   /* 设置卡片高度为250px */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -38,9 +38,10 @@ div.cell_output table.dataframe {
 }
 
 /* 图片自适应卡片 */
-.grid-item-card img {
+div.grid-item-card img {
     width: 100%;
     height: 100%;
     object-fit: cover;  /* 确保图片填充整个卡片区域 */
 }
+
 
