@@ -26,36 +26,12 @@ div.cell_output table.dataframe {
 }
 
 
-/* 强制设置所有卡片为正方形 */
-div.grid-item-card {
-    width: 250px !important;    /* 设置卡片宽度为250px */
-    height: 250px !important;   /* 设置卡片高度为250px */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    overflow: hidden; /* 确保内容不会溢出 */
+.card {
+    width: 150px; /* 设置宽度 */
+    height: 150px; /* 设置高度等于宽度 */
+    object-fit: cover; /* 确保内容适应方形卡片且不变形 */
 }
 
-/* 强制设置图片的大小与卡片相同 */
-div.grid-item-card img {
-    width: 100% !important;
-    height: 100% !important;
-    object-fit: cover !important;  /* 确保图片覆盖整个卡片区域 */
-}
-
-/* 处理链接，防止它影响卡片尺寸 */
-a.sd-stretched-link {
-    position: static !important;
-    width: auto !important;
-    height: auto !important;
-}
-
-/* 隐藏链接文本 */
-a.sd-hidden {
-    visibility: hidden !important;
-}
 
 
 
