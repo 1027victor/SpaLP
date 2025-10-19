@@ -43,7 +43,8 @@
 
 
 ```{image} ../../../../_static/images/multi_omics.jpg
-:width: 100%
+:width: 80px
+:height: 80px
 :alt: Multiomics Tutorial
 :class: sd-m-0
 ```
