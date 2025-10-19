@@ -35,13 +35,27 @@ div.grid-item-card {
     justify-content: center;
     align-items: center;
     text-align: center;
+    overflow: hidden; /* 确保内容不会溢出 */
 }
 
-/* 图片自适应卡片 */
+/* 强制设置图片的大小与卡片相同 */
 div.grid-item-card img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;  /* 确保图片填充整个卡片区域 */
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;  /* 确保图片覆盖整个卡片区域 */
 }
+
+/* 处理链接，防止它影响卡片尺寸 */
+a.sd-stretched-link {
+    position: static !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+/* 隐藏链接文本 */
+a.sd-hidden {
+    visibility: hidden !important;
+}
+
 
 
