@@ -1,6 +1,6 @@
 # Spatial omics
 
-::::{grid} 1 1 2 2
+::::{grid} 1 1 2 4
 :gutter: 2
 
 :::{grid-item-card} Single sample tutorial
@@ -8,13 +8,13 @@
 :link-type: doc
 :shadow: md
 :class-card: sd-text-center
+:sx: width: 150px; height: 150px; 
 
 ```{image} ../../../../_static/images/single_sample.jpg
 :width: 100%
 :alt: Single sample tutorial
 :class: sd-m-0
 ```
-
 
 :::
 
@@ -23,12 +23,14 @@
 :link-type: doc
 :shadow: md
 :class-card: sd-text-center
+:sx: width: 150px; height: 150px; 
 
 ```{image} ../../../../_static/images/modal_sample.jpg
 :width: 100%
 :alt: Multi sample integration tutorial
 :class: sd-m-0
 ```
+
 
 :::
 
@@ -37,6 +39,7 @@
 :link-type: doc
 :shadow: md
 :class-card: sd-text-center
+:sx: width: 150px; height: 150px;  
 
 ```{image} ../../../../_static/images/multi_omics.jpg
 :width: 100%
@@ -52,12 +55,14 @@
 :link-type: doc
 :shadow: md
 :class-card: sd-text-center
+:sx: width: 150px; height: 150px;  
 
 ```{image} ../../../../_static/images/trained_salap.jpg
 :width: 100%
 :alt: Cross platform generalization
 :class: sd-m-0
 ```
+
 
 :::
 
