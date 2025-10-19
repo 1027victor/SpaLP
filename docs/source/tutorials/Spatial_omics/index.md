@@ -8,7 +8,7 @@
 :link-type: doc
 :shadow: md
 :class-card: sd-text-center
-:sx: width: 150px; height: 150px; 
+:sx: width: 150px; height: 74.72px; 
 
 ```{image} ../../../../_static/images/single_sample.jpg
 :width: 100%
@@ -23,7 +23,7 @@
 :link-type: doc
 :shadow: md
 :class-card: sd-text-center
-:sx: width: 150px; height: 150px; 
+:sx: width: 150px; height: 74.72px; 
 
 ```{image} ../../../../_static/images/modal_sample.jpg
 :width: 100%
@@ -39,7 +39,7 @@
 :link-type: doc
 :shadow: md
 :class-card: sd-text-center
-:sx: width: 150px; height: 150px;  
+:sx: width: 150px; height: 74.72px;  
 
 ```{image} ../../../../_static/images/multi_omics.jpg
 :width: 100%
@@ -55,7 +55,7 @@
 :link-type: doc
 :shadow: md
 :class-card: sd-text-center
-:sx: width: 150px; height: 150px;  
+:sx: width: 150px; height: 74.72px;  
 
 ```{image} ../../../../_static/images/trained_salap.jpg
 :width: 100%
