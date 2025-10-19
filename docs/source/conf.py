@@ -88,9 +88,10 @@ myst_enable_extensions = [
     "html_admonition",
 ]
 myst_url_schemes = ("http", "https", "mailto")
-nb_output_stderr = "remove"
+# nb_output_stderr = "remove"
+nb_merge_streams = True       # 合并 stdout/stderr（顺序更稳）
+nb_output_stderr = "show" 
 nb_execution_mode = "off"
-nb_merge_streams = True
 typehints_defaults = "braces"
 
 source_suffix = {
