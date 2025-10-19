@@ -11,7 +11,8 @@
 
 
 ```{image} ../../../../_static/images/single_sample.jpg
-:width: 100%
+:width: 50px
+:height: 50px
 :alt: Single sample tutorial
 :class: sd-m-0
 ```
@@ -25,7 +26,8 @@
 :class-card: sd-text-center
 
 ```{image} ../../../../_static/images/modal_sample.jpg
-:width: 100%
+:width: 50px
+:height: 50px
 :alt: Multi sample integration tutorial
 :class: sd-m-0
 ```
@@ -41,7 +43,8 @@
 
 
 ```{image} ../../../../_static/images/multi_omics.jpg
-:width: 100%
+:width: 50px
+:height: 50px
 :alt: Multiomics Tutorial
 :class: sd-m-0
 ```
@@ -57,7 +60,8 @@
 
 
 ```{image} ../../../../_static/images/trained_salap.jpg
-:width: 100%
+:width: 50px
+:height: 50px
 :alt: Cross platform generalization
 :class: sd-m-0
 ```
