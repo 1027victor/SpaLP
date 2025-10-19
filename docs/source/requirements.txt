@@ -4,6 +4,7 @@ Sphinx
 #sphinx-markdown-tables==0.0.17
 sphinx-rtd-theme
 myst_nb
+jupyter_sphinx
 sphinx_copybutton
 sphinxcontrib.bibtex
 sphinx_autodoc_typehints
