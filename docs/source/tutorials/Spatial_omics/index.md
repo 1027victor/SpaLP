@@ -32,6 +32,7 @@
 ::::
 
 ```{toctree}
+:hidden: true
 :maxdepth: 1
 
 Single_sample_tutorial/index
