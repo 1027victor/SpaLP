@@ -53,7 +53,7 @@ needs_sphinx = "4.0"
 # They can be extensions coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
     "myst_nb",
-    "jupyter_sphinx",
+    # "jupyter_sphinx",
     "sphinx_copybutton",
     # "sphinx.ext.autodoc",
     "sphinx.ext.intersphinx",
