@@ -15,8 +15,7 @@
 :class: sd-m-0
 ```
 
-**Single sample tutorial**  
-简要说明：演示单样本空间转录组分析流程。
+
 :::
 
 :::{grid-item-card} Multi sample integration tutorial
@@ -31,8 +30,6 @@
 :class: sd-m-0
 ```
 
-**Multi sample integration tutorial**  
-简要说明：介绍多样本集成分析。
 :::
 
 :::{grid-item-card} Multiomics Tutorial
