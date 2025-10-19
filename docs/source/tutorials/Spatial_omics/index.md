@@ -8,7 +8,7 @@
 :link-type: doc
 :shadow: md
 
-```{image} _static/images/single_sample.jpg
+```{image} ../../../../_static/images/single_sample.jpg
 :width: 100%
 :alt: Single sample tutorial
 :class: sd-m-0
@@ -20,7 +20,7 @@
 :link-type: doc
 :shadow: md
 
-```{image} _static/images/modal_sample.jpg
+```{image} ../../../../_static/images/modal_sample.jpg
 :width: 100%
 :alt: Multi sample integration tutorial
 :class: sd-m-0
@@ -32,7 +32,7 @@
 :link-type: doc
 :shadow: md
 
-```{image} _static/images/multi_omics.jpg
+```{image} ../../../../_static/images/multi_omics.jpg
 :width: 100%
 :alt: Multiomics Tutorial
 :class: sd-m-0
@@ -44,7 +44,7 @@
 :link-type: doc
 :shadow: md
 
-```{image} _static/images/trained_salap.jpg
+```{image} ../../../../_static/images/trained_salap.jpg
 :width: 100%
 :alt: Cross platform generalization
 :class: sd-m-0
