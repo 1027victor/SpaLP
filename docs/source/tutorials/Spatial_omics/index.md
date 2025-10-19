@@ -26,8 +26,8 @@
 :class-card: sd-text-center
 
 ```{image} ../../../../_static/images/modal_sample.jpg
-:width: 80px
-:height: 80px
+:width: 100px
+:height: 60px
 :alt: Multi sample integration tutorial
 :class: sd-m-0
 ```
