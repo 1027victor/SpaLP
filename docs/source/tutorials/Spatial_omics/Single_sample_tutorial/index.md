@@ -7,11 +7,8 @@ Simulated_data_Tutorial
 CDOEX_Mouse_spleen_Tutorial
 CosMx_Mouse_Brain
 Low_quality_CosMx_Human_Kidney_Cancer_data_Tutorial
-Stereo_CITE_seq_Mouse_spleen
 Stereo_CITE_seq_Mouse_spleen_Tutorial
 Stereo_seq_testicles_data_Tutorial
-Xenium_Breast_Cancer
 Xenium_Breast_Cancer_data_Tutorial
-Xenium_Gastric_cancer
 Xenium_Human_Gastric_Cancer_data_Tutorial
 ```
