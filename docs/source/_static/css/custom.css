@@ -31,6 +31,10 @@ div.cell_output table.dataframe {
     height: 160px;
 }
 
+#tutorials > div.sd-container-fluid.sd-sphinx-override.sd-mb-4.docutils > div > div > div {
+    width: 100% !important;
+}
+
 
 
 
