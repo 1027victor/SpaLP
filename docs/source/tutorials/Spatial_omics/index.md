@@ -1,6 +1,6 @@
 # Spatial omics
 
-::::{grid} 1 1 2 4
+::::{grid} 1 1 2 2
 :gutter: 2
 
 :::{grid-item-card} Single sample tutorial
@@ -14,8 +14,7 @@
 :class: sd-m-0
 ```
 
-**Single sample tutorial**  
-简要说明：演示单样本空间转录组分析流程。
+
 :::
 
 :::{grid-item-card} Multi sample integration tutorial
@@ -29,8 +28,7 @@
 :class: sd-m-0
 ```
 
-**Multi sample integration tutorial**  
-简要说明：介绍多样本集成分析。
+
 :::
 
 :::{grid-item-card} Multiomics Tutorial
@@ -44,8 +42,6 @@
 :class: sd-m-0
 ```
 
-**Multiomics Tutorial**  
-简要说明：展示多组学数据分析方法。
 :::
 
 :::{grid-item-card} Cross platform generalization
@@ -59,8 +55,6 @@
 :class: sd-m-0
 ```
 
-**Cross platform generalization**  
-简要说明：展示平台间的泛化能力。
 :::
 
 ::::
