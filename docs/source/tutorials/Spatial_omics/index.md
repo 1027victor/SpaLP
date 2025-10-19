@@ -11,8 +11,8 @@
 
 
 ```{image} ../../../../_static/images/single_sample.jpg
-:width: 100%
-:height: auto
+:width: 80px
+:height: 80px
 :alt: Single sample tutorial
 :class: sd-m-0
 ```
@@ -26,8 +26,8 @@
 :class-card: sd-text-center
 
 ```{image} ../../../../_static/images/modal_sample.jpg
-:width: 100%
-:height: auto
+:width: 80px
+:height: 80px
 :alt: Multi sample integration tutorial
 :class: sd-m-0
 ```
@@ -59,8 +59,8 @@
 
 
 ```{image} ../../../../_static/images/trained_salap.jpg
-:width: 100%
-:height: auto
+:width: 80px
+:height: 80px
 :alt: Cross platform generalization
 :class: sd-m-0
 ```
