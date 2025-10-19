@@ -53,6 +53,7 @@ needs_sphinx = "4.0"
 # They can be extensions coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
     "myst_nb",
+    # "jupyter_sphinx",
     "sphinx_copybutton",
     # "sphinx.ext.autodoc",
     "sphinx.ext.intersphinx",
@@ -63,9 +64,9 @@ extensions = [
     "sphinx_autodoc_typehints",
     "sphinx.ext.mathjax",
     "sphinx_design",
-    "IPython.sphinxext.ipython_console_highlighting",
+    # "IPython.sphinxext.ipython_console_highlighting",
     # "sphinxext.opengraph",
-    "hoverxref.extension",
+    # "hoverxref.extension",
     *[p.stem for p in (HERE / "extensions").glob("*.py")],
 ]
 
@@ -87,9 +88,10 @@ myst_enable_extensions = [
     "html_admonition",
 ]
 myst_url_schemes = ("http", "https", "mailto")
-nb_output_stderr = "remove"
+# nb_output_stderr = "remove"
+nb_merge_streams = True       # 合并 stdout/stderr（顺序更稳）
+nb_output_stderr = "show" 
 nb_execution_mode = "off"
-nb_merge_streams = True
 typehints_defaults = "braces"
 
 source_suffix = {
