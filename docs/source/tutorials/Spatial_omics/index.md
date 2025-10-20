@@ -26,8 +26,8 @@
 :class-card: sd-text-center
 
 ```{image} ../../../../_static/images/modal_sample.jpg
-:width: 100px
-:height: 60px
+:width: 70px
+:height: 70px
 :alt: Multi sample integration tutorial
 :class: sd-m-0
 ```
@@ -43,7 +43,7 @@
 
 
 ```{image} ../../../../_static/images/multi_omics.jpg
-:width: 80px
+:width: 100px
 :height: 80px
 :alt: Multiomics Tutorial
 :class: sd-m-0
