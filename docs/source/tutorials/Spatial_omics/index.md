@@ -27,7 +27,7 @@
 
 ```{image} ../../../../_static/images/modal_sample.jpg
 :width: 70px
-:height: 70px
+:height: 75px
 :alt: Multi sample integration tutorial
 :class: sd-m-0
 ```
@@ -43,7 +43,7 @@
 
 
 ```{image} ../../../../_static/images/multi_omics.jpg
-:width: 100px
+:width: 110px
 :height: 80px
 :alt: Multiomics Tutorial
 :class: sd-m-0
