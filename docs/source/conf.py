@@ -39,6 +39,10 @@ templates_path = ["_templates"]
 nitpicky = True  # Warn about broken links
 needs_sphinx = "4.0"
 
+html_context = {
+    "display_github": False,
+}
+
 # html_context = {
 #     "display_github": True,  # Integrate GitHub
 #     "github_user": "Lotfollahi-lab",  # Username
@@ -117,18 +121,39 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 # a list of builtin themes.
 #
 html_theme = "sphinx_rtd_theme"
+# html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
 html_css_files = ["css/custom.css"]
 
 html_title = "SpaLP"
 html_logo = "_static/SpaLP.svg"
 
-html_theme_options = {
-    # "repository_url": repository_url,
-    "use_repository_button": True,
-    "path_to_docs": "docs/",
-    "navigation_with_keys": False,
-}
+# html_theme_options = {
+#     # "repository_url": repository_url,
+#     "use_repository_button": True,
+#     "path_to_docs": "docs/",
+#     "navigation_with_keys": False,
+# }
+
+
+# html_theme_options = {
+#     # Edit 指向 docs 仓库
+#     "repository_url": "https://github.com/1027victor/SpaLP",
+#     "repository_branch": "main",
+#     "path_to_docs": "docs/source",          # 按 docs 仓库的实际路径填，比如 docs 或 docs/source
+#     "use_edit_page_button": True,
+
+#     # 额外再放一个链接到代码仓库（可选）
+#     "icon_links": [
+#         {
+#             "name": "Code",
+#             "url": "https://github.com/dbjzs/SpaLP/issues",
+#             "icon": "fa-brands fa-github",
+#             "type": "fontawesome",
+#         },
+#     ],
+# }
+
 
 pygments_style = "default"
 

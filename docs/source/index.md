@@ -28,9 +28,9 @@ installation
 tutorials/index
 ```
 
-```{image} _static/images/LP.jpg
+```{image} ./_static/images/LP.jpg
 :width: 1000px
-:height: 400px
+:height: 500px
 :alt: SpaLP
 :align: center
 ```
