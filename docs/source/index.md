@@ -19,8 +19,6 @@ Learn by following example applications of SpaLP.
 
 ::::
 
-
-
 ```{toctree}
 :hidden: true
 :maxdepth: 3
@@ -28,16 +26,15 @@ Learn by following example applications of SpaLP.
 
 installation
 tutorials/index
+```
 
-
-​```{image} _static/images/LP.jpg
+```{image} _static/images/LP.jpg
 :width: 1000px
 :height: 400px
+:alt: SpaLP
 :align: center
-
+```
 
 # Overview
 
 SpaLP (Spatial Local Pooling) is a python package for ultra-large-scale spatial omics data, including spatial atlas building, niche identification, omics data reconstruction, multi-slice integration (within-platform & cross-platform), large-scale multi-omics integration, cross-platform generalized and zero-shot learning.
-
-```
