@@ -4,7 +4,7 @@
 :maxdepth: 1
 Simulated_data_Tutorial
 1.35_Million_Xenium_Mouse_Tissue_Atlassing_Panel_Tutorial
-CDOEX_Mouse_spleen_Tutorial
+CODEX_Mouse_spleen_Tutorial
 CosMx_Mouse_Brain
 Low_quality_CosMx_Human_Kidney_Cancer_data_Tutorial
 Stereo_CITE_seq_Mouse_spleen_Tutorial

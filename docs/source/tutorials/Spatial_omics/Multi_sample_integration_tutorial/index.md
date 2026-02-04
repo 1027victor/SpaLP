@@ -3,7 +3,7 @@
 ```{toctree}
 :maxdepth: 1
 8.4_Million_MERFISH_Mouse_Brain_Atlas_Tutorial
-CDOEX_Human_tonsils_Sample_Integration_Tutorial
+CODEX_Human_tonsils_Sample_Integration_Tutorial
 Cross_platform_Human_Colorectal_Cancer_Sample_Integration_Tutorial
 Cross_platform_Mouse_Brain_Sample_Integration_Tutorial
 STARmapPLUS_Mouse_Brain_Sample_Integration_Tutorial
