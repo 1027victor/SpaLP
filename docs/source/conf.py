@@ -39,6 +39,10 @@ templates_path = ["_templates"]
 nitpicky = True  # Warn about broken links
 needs_sphinx = "4.0"
 
+html_context = {
+    "display_github": False,
+}
+
 # html_context = {
 #     "display_github": True,  # Integrate GitHub
 #     "github_user": "Lotfollahi-lab",  # Username
@@ -132,23 +136,23 @@ html_logo = "_static/SpaLP.svg"
 # }
 
 
-html_theme_options = {
-    # Edit 指向 docs 仓库
-    "repository_url": "https://github.com/1027victor/SpaLP",
-    "repository_branch": "main",
-    "path_to_docs": "docs/source",          # 按 docs 仓库的实际路径填，比如 docs 或 docs/source
-    "use_edit_page_button": True,
+# html_theme_options = {
+#     # Edit 指向 docs 仓库
+#     "repository_url": "https://github.com/1027victor/SpaLP",
+#     "repository_branch": "main",
+#     "path_to_docs": "docs/source",          # 按 docs 仓库的实际路径填，比如 docs 或 docs/source
+#     "use_edit_page_button": True,
 
-    # 额外再放一个链接到代码仓库（可选）
-    "icon_links": [
-        {
-            "name": "Code",
-            "url": "https://github.com/dbjzs/SpaLP/issues",
-            "icon": "fa-brands fa-github",
-            "type": "fontawesome",
-        },
-    ],
-}
+#     # 额外再放一个链接到代码仓库（可选）
+#     "icon_links": [
+#         {
+#             "name": "Code",
+#             "url": "https://github.com/dbjzs/SpaLP/issues",
+#             "icon": "fa-brands fa-github",
+#             "type": "fontawesome",
+#         },
+#     ],
+# }
 
 
 pygments_style = "default"
