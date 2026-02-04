@@ -2,5 +2,5 @@
 
 ```{toctree}
 :maxdepth: 1
-CDOEX_Mouse_spleen_Tutorial
+CODEX_Mouse_spleen_Tutorial
 ```
