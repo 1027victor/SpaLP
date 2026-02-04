@@ -30,7 +30,7 @@ tutorials/index
 
 ```{image} ./_static/images/LP.jpg
 :width: 1000px
-:height: 400px
+:height: 600px
 :alt: SpaLP
 :align: center
 ```
