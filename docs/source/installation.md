@@ -2,8 +2,6 @@
 
 ## System Requirements
 
-### Software requirements
-
 #### OS Requirements
 
 This package is supported for *Linux*. The package has been tested on the following systems:
