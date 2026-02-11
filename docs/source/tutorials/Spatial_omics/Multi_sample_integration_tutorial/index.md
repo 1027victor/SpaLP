@@ -9,4 +9,6 @@ Cross_platform_Mouse_Brain_Sample_Integration_Tutorial
 STARmapPLUS_Mouse_Brain_Sample_Integration_Tutorial
 VisiumHD_Human_tonsils_Sample_Integration_Tutorial
 Tutorial_MERSCOPE
+MERFISH_Coronal_Mouse_Brain_Sample_Integration_Tutorial
 ```
+
