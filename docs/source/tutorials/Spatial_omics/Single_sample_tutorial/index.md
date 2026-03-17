@@ -11,4 +11,5 @@ Stereo_CITE_seq_Mouse_spleen_Tutorial
 Stereo_seq_testicles_data_Tutorial
 Xenium_Breast_Cancer_data_Tutorial
 Xenium_Human_Gastric_Cancer_data_Tutorial
+Human_Lung_Cancer_Tutorial
 ```
